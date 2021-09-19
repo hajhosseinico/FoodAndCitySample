@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodandCities</string>
+    <string name="food_and_city_list_fragment_title">Food And Cities</string>
+    <string name="food_and_city_detail_fragment_title">Food or City Detail</string>
+    <string name="food_list_title">Most Popular Japanese Food</string>
+    <string name="city_list_title">Main Cities In Japan</string>
+</resources>
